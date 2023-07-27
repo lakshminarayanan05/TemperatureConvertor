@@ -1,0 +1,52 @@
+body{
+    background-image: url(Images/bg.jpg);
+}
+section{
+    border: 1px solid black;
+    width: 50%;
+    height: 500px;
+    background-color:rgb(52, 55, 58);
+    margin: auto;
+    margin-top: 80px;
+}
+h2{
+    color: yellow;
+    text-align: center;
+    font-size: 50px;
+}
+label{
+    color: white;
+    padding-left: 20%;
+    font-size: 30px;
+    margin: 25px;
+}
+input{
+    border-radius: 5px;
+}
+#from{
+    margin-left: 11%;
+    font-size: 20px;
+}
+#to{
+    margin-left: 16%;
+    margin-top: 20px;
+    font-size: 20px;
+}
+#val{
+    margin-top: 20px;
+    font-size: 20px;
+}
+button{
+    color: white;
+    margin-top:8%;
+    margin-left: 40%;
+    background-color: red;
+    font-size: 30px;
+}
+#result{
+    color: white;
+    font-size: 25px;
+    width: 20%;
+    margin-top: 30px;
+    margin-left:38%;
+}
